@@ -3,6 +3,7 @@ Processed Human Activity Recognition Using Smartphones Dataset (sdata2)
 Version 1.0
 ==================================================================
 
+
 Steps to run th run_analysis.R
 ==============================
 1.Downloads the samsung data from url: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 

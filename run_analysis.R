@@ -1,3 +1,8 @@
+# Project for Getting and Cleaning Data.
+#Script for Getting and cleaning Samsung Galaxy S smartphone.
+#=================================================================
+
+
 # Reading Train and Test Data.
 train = read.table("./train/X_train.txt")
 trainalabel = read.table("./train/y_train.txt")

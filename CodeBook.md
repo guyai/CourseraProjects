@@ -25,7 +25,7 @@ subject
 activitycode
 
 Time domain signals variables Average for mean and standard deviation
-===========================================================================
+=====================================================================
 tbodyaccmeanx
 tbodyaccmeany
 tbodyaccmeanz
