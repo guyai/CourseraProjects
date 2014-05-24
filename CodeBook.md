@@ -1,5 +1,8 @@
 Processed Human Activity Recognition Smartphones Dataset (sdata2) CodeBook: 
 ==========================================================================
+
+A.STUDY DESIGN:
+--------------
 These data were processed from Human Activity Recognition Using Smartphones Dataset Version 1.0
 
 Data transformations and cleaning:
@@ -10,8 +13,11 @@ Data transformations and cleaning:
 4.Column name were renamed to be more descriptive by removing underscore,dots and converting capital letters to lower case
 5.Data were summarized with the average of each activity and each subject.
 
+
+B.CODE BOOK:
+------------
 The dataset variables:
-===================================================================================
+==========================================================================
 bodyacc - body acceleration signals mean and standard deviation.
 gravityacc - gravity acceleration signals mean and standard deviation.
 bodyaccjerk - the body linear acceleration Jerk signals mean and standard deviation.
