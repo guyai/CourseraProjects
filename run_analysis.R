@@ -1,6 +1,7 @@
-# Project for Getting and Cleaning Data.
-#Script for Getting and cleaning Samsung Galaxy S smartphone.
-#=================================================================
+# =================================================================
+# Getting & Cleaning Data Course Project
+# Script for Getting and cleaning Samsung Galaxy S smartphone.
+# =================================================================
 
 
 # Reading Train and Test Data.
